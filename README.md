@@ -57,7 +57,7 @@ https://nodejs.org/dist/v24.16.0/node-v24.16.0-x64.msi
 
 Cari username **@BotFather** di Telegram.
 
-![BotFather](https://qu.ax/x/uQEFk.png)
+![BotFather](https://files.catbox.moe/n3jxzc.png)
 
 ---
 
@@ -67,7 +67,7 @@ Tekan tombol **START**.
 
 > Jika tombol START tidak muncul, silakan abaikan langkah ini dan lanjutkan ke langkah berikutnya.
 
-![Start](https://qu.ax/x/3YB8C.png)
+![Start](https://files.catbox.moe/k6wfi4.png)
 
 ---
 
@@ -79,7 +79,7 @@ Ketik dan kirim:
 /newbot
 ```
 
-![New Bot](https://qu.ax/x/yLzCg.png)
+![New Bot](https://files.catbox.moe/14yf08.png)
 
 ---
 
@@ -101,7 +101,7 @@ Username Bot : financialassistantbot
 
 > Jika username sudah digunakan, pilih username lain.
 
-![Username](https://qu.ax/x/eEIxB.png)
+![Username](https://files.catbox.moe/xlj4o2.png)
 
 ---
 
@@ -111,7 +111,7 @@ Setelah bot berhasil dibuat, BotFather akan memberikan token.
 
 Salin token tersebut karena akan digunakan pada file `.env`.
 
-![Token](https://qu.ax/x/fwMsj.png)
+![Token](https://files.catbox.moe/xzy8z6.png)
 
 ---
 
@@ -243,7 +243,7 @@ https://nodejs.org/dist/v24.16.0/node-v24.16.0-x64.msi
 
 Search for **@BotFather** on Telegram.
 
-![BotFather](https://qu.ax/x/uQEFk.png)
+![BotFather](https://files.catbox.moe/n3jxzc.png)
 
 ---
 
@@ -253,7 +253,7 @@ Press the **START** button.
 
 > If the START button is not available, simply skip this step.
 
-![Start](https://qu.ax/x/3YB8C.png)
+![Start](https://files.catbox.moe/k6wfi4.png)
 
 ---
 
@@ -265,7 +265,7 @@ Send:
 /newbot
 ```
 
-![New Bot](https://qu.ax/x/yLzCg.png)
+![New Bot](https://files.catbox.moe/14yf08.png)
 
 ---
 
@@ -287,7 +287,7 @@ Bot Username : financialassistantbot
 
 > If the username is already taken, choose another one.
 
-![Username](https://qu.ax/x/eEIxB.png)
+![Username](https://files.catbox.moe/xlj4o2.png)
 
 ---
 
@@ -297,7 +297,7 @@ BotFather will provide a token after the bot is created.
 
 Copy the token because it will be required in the `.env` file.
 
-![Token](https://qu.ax/x/fwMsj.png)
+![Token](https://files.catbox.moe/xzy8z6.png)
 
 ---
 
