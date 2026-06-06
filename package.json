@@ -12,7 +12,6 @@
   "type": "commonjs",
   "dependencies": {
     "better-sqlite3": "^12.10.0",
-    "bytenode": "^1.5.7",
     "debug": "^4.4.3",
     "dotenv": "^17.4.2",
     "exceljs": "^4.4.0",
